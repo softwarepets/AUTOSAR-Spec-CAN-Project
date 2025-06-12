@@ -1,0 +1,5 @@
+../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/misc/lv_color.h:595:26:lv_color_make	16	static
+../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/misc/lv_color.h:700:26:lv_color_black	8	static
+../CDD/lvgl/src/draw/lv_draw_arc.c:37:6:lv_draw_arc_dsc_init	24	static
+../CDD/lvgl/src/draw/lv_draw_arc.c:45:6:lv_draw_arc	40	static
+../CDD/lvgl/src/draw/lv_draw_arc.c:58:6:lv_draw_arc_get_area	32	static

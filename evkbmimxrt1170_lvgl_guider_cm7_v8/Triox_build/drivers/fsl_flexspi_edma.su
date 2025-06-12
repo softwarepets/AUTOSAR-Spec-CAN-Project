@@ -1,0 +1,12 @@
+../drivers/fsl_flexspi.h:496:20:FLEXSPI_EnableTxDMA	16	static
+../drivers/fsl_flexspi.h:514:20:FLEXSPI_EnableRxDMA	16	static
+../drivers/fsl_flexspi.h:532:24:FLEXSPI_GetTxFifoAddress	16	static
+../drivers/fsl_flexspi.h:543:24:FLEXSPI_GetRxFifoAddress	16	static
+../drivers/fsl_flexspi.h:686:20:FLEXSPI_GetBusIdleStatus	16	static
+../drivers/fsl_flexspi_edma.c:62:16:FLEXSPI_CalculatePower	24	static
+../drivers/fsl_flexspi_edma.c:73:13:FLEXSPI_TransferEDMACallback	40	static
+../drivers/fsl_flexspi_edma.c:108:6:FLEXSPI_TransferCreateHandleEDMA	32	static
+../drivers/fsl_flexspi_edma.c:142:6:FLEXSPI_TransferUpdateSizeEDMA	24	static
+../drivers/fsl_flexspi_edma.c:161:10:FLEXSPI_TransferEDMA	96	static
+../drivers/fsl_flexspi_edma.c:315:6:FLEXSPI_TransferAbortEDMA	16	static
+../drivers/fsl_flexspi_edma.c:334:10:FLEXSPI_TransferGetTransferCountEDMA	40	static

@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\nxp\MCUXpressoIDE_11.9.1_2170\evkbmimxrt1170_lvgl_guider_cm7_v8\imxrt_eval_build\evkbmimxrt1170_lvgl_guider_cm7_v8.hex"
+qc
+
+qc

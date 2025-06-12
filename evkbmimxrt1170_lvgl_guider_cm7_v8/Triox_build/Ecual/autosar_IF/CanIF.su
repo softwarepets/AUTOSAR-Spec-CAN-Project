@@ -1,0 +1,4 @@
+../Ecual/autosar_IF/CanIF.c:14:6:CanIf_Init	16	static
+../Ecual/autosar_IF/CanIF.c:19:16:CanIf_Transmit	40	static
+../Ecual/autosar_IF/CanIF.c:40:6:CanIf_RxIndication	24	static
+../Ecual/autosar_IF/CanIF.c:61:6:CanIf_TxConfirmation	16	static

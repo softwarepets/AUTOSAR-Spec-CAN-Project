@@ -1,0 +1,2 @@
+../Mcal/fsl_common.c:25:7:SDK_Malloc	32	static
+../Mcal/fsl_common.c:66:6:SDK_Free	24	static

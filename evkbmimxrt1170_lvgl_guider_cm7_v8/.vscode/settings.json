@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "presentation.h": "c",
+        "lvgl_freertos.h": "c",
+        "rtc.h": "c"
+    }
+}

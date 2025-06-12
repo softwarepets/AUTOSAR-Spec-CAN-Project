@@ -1,0 +1,8 @@
+../source/application/TripMeter/trip_details.c:5:6:TripVariableInit	8	static
+../source/application/TripMeter/trip_details.c:11:6:TripAppNormal	16	static
+../source/application/TripMeter/trip_details.c:64:10:GetTripAverageMilege	16	static
+../source/application/TripMeter/trip_details.c:69:10:GetTripAverageSpeed	16	static
+../source/application/TripMeter/trip_details.c:74:9:GetTripTopSpeed	16	static
+../source/application/TripMeter/trip_details.c:79:10:GetTripBatteryConsumption	16	static
+../source/application/TripMeter/trip_details.c:84:10:GetTripTimeValue	16	static
+../source/application/TripMeter/trip_details.c:89:10:GetTripDistanceTravelled	16	static

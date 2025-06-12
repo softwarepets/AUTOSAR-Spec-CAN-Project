@@ -1,0 +1,12 @@
+../Ecual/Comm/../../Mcal/../Mcal/../Mcal/../Mcal/fsl_clock.h:2071:24:CLOCK_GetRootClockMux	16	static
+../Ecual/Comm/../../Mcal/../Mcal/../Mcal/../Mcal/fsl_clock.h:2112:24:CLOCK_GetRootClockDiv	16	static
+../Ecual/Comm/../../Mcal/../Mcal/../Mcal/../Mcal/fsl_clock.h:2240:24:CLOCK_GetRootClockFreq	32	static
+../Ecual/Comm/hal_flexcan.c:13:10:HAL_FLEXCAN_GetDefaultConfig	16	static
+../Ecual/Comm/hal_flexcan.c:23:10:HAL_FLEXCAN_TransferCreateHandle	16	static
+../Ecual/Comm/hal_flexcan.c:32:10:HAL_FLEXCAN_Init	24	static
+../Ecual/Comm/hal_flexcan.c:71:6:HAL_FLEXCAN_Deinit	16	static
+../Ecual/Comm/hal_flexcan.c:77:10:HAL_FLEXCAN_SetBitrate	16	static
+../Ecual/Comm/hal_flexcan.c:83:10:HAL_FLEXCAN_SetFDBitrate	24	static
+../Ecual/Comm/hal_flexcan.c:93:10:HAL_FLEXCAN_Transmit	24	static
+../Ecual/Comm/hal_flexcan.c:99:10:HAL_FLEXCAN_Receive	16	static
+../Ecual/Comm/hal_flexcan.c:118:6:HAL_FLEXCAN_Reset	16	static

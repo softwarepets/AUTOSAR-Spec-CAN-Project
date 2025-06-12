@@ -1,0 +1,15 @@
+../CDD/lvgl/src/misc/../../../../CDD/lvgl/src/misc/lv_color.h:375:24:lv_color_to32	16	static
+../CDD/lvgl/src/misc/../../../../CDD/lvgl/src/misc/lv_color.h:439:48:lv_color_mix	32	static
+../CDD/lvgl/src/misc/../../../../CDD/lvgl/src/misc/lv_color.h:595:26:lv_color_make	16	static
+../CDD/lvgl/src/misc/../../../../CDD/lvgl/src/misc/lv_color.h:696:26:lv_color_white	8	static
+../CDD/lvgl/src/misc/../../../../CDD/lvgl/src/misc/lv_color.h:700:26:lv_color_black	8	static
+../CDD/lvgl/src/misc/lv_color.c:37:28:lv_color_fill	24	static
+../CDD/lvgl/src/misc/lv_color.c:127:12:lv_color_lighten	16	static
+../CDD/lvgl/src/misc/lv_color.c:132:12:lv_color_darken	16	static
+../CDD/lvgl/src/misc/lv_color.c:137:12:lv_color_change_lightness	16	static
+../CDD/lvgl/src/misc/lv_color.c:152:12:lv_color_hsv_to_rgb	32	static
+../CDD/lvgl/src/misc/lv_color.c:217:16:lv_color_rgb_to_hsv	48	static
+../CDD/lvgl/src/misc/lv_color.c:268:16:lv_color_to_hsv	24	static
+../CDD/lvgl/src/misc/lv_color.c:275:12:lv_palette_main	16	static
+../CDD/lvgl/src/misc/lv_color.c:294:12:lv_palette_lighten	16	static
+../CDD/lvgl/src/misc/lv_color.c:333:12:lv_palette_darken	16	static

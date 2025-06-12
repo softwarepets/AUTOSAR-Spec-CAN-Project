@@ -1,0 +1,7 @@
+../Mcal/../Mcal/../Mcal/../Mcal/../Mcal/fsl_clock.h:2178:20:CLOCK_ControlGate	16	static
+../Mcal/../Mcal/../Mcal/../Mcal/../Mcal/fsl_clock.h:2197:20:CLOCK_EnableClock	16	static
+../Mcal/../Mcal/fsl_gpio.h:242:20:GPIO_SetPinInterruptConfig	24	static
+../Mcal/fsl_gpio.c:47:17:GPIO_GetInstance	24	static
+../Mcal/fsl_gpio.c:75:6:GPIO_PinInit	32	static
+../Mcal/fsl_gpio.c:115:6:GPIO_PinWrite	24	static
+../Mcal/fsl_gpio.c:144:6:GPIO_PinSetInterruptConfig	32	static

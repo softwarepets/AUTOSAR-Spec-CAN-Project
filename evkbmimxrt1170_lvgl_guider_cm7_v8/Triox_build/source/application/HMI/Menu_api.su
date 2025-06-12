@@ -1,0 +1,14 @@
+../source/application/HMI/Menu_api.c:46:6:handleButtonInput	8	static
+../source/application/HMI/Menu_api.c:75:6:initMenu	8	static
+../source/application/HMI/Menu_api.c:171:6:Menu	4	static
+../source/application/HMI/Menu_api.c:175:6:LoadMainScreen	8	static
+../source/application/HMI/Menu_api.c:179:6:loadSettings_TripSettings	8	static
+../source/application/HMI/Menu_api.c:183:6:loadSettings_DisplaySettings	8	static
+../source/application/HMI/Menu_api.c:187:6:loadOption1	8	static
+../source/application/HMI/Menu_api.c:191:6:loadOption2	8	static
+../source/application/HMI/Menu_api.c:195:6:loadOption3	8	static
+../source/application/HMI/Menu_api.c:199:6:loadTrips	8	static
+../source/application/HMI/Menu_api.c:203:6:loadVehicle	8	static
+../source/application/HMI/Menu_api.c:207:6:loadBluetooth	8	static
+../source/application/HMI/Menu_api.c:211:6:loadPreference	8	static
+../source/application/HMI/Menu_api.c:215:6:loadCustomization	8	static

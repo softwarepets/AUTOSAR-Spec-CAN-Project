@@ -1,0 +1,10 @@
+../RTE/sender.c:5:7:setFrameType	16	static
+../RTE/sender.c:11:7:setBLEStatus	16	static
+../RTE/sender.c:17:7:setPhnStatus	16	static
+../RTE/sender.c:35:7:setNavDetails	16	static
+../RTE/sender.c:83:7:setincCallFrame	16	static
+../RTE/sender.c:110:7:setOngCallFrame	16	static
+../RTE/sender.c:136:7:setCallEnd	16	static
+../RTE/sender.c:142:7:setMissedCallNotify	16	static
+../RTE/sender.c:148:7:resetMissedCallNotify	16	static
+../RTE/sender.c:154:7:resetNavNotify	16	static

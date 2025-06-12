@@ -1,0 +1,10 @@
+c:\users\subas\documents\mcuxpressoide_11.9.0_2144\workspace\evkbmimxrt1170_lvgl_guider_cm7_v8\cdd\lvgl\src\misc\lv_area.h:123:26:lv_area_get_width	16	static
+c:\users\subas\documents\mcuxpressoide_11.9.0_2144\workspace\evkbmimxrt1170_lvgl_guider_cm7_v8\cdd\lvgl\src\font\lv_font.h:124:26:lv_font_get_line_height	16	static
+../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/misc/lv_bidi.h:129:20:lv_bidi_calculate_align	24	static
+c:\users\subas\documents\mcuxpressoide_11.9.0_2144\workspace\evkbmimxrt1170_lvgl_guider_cm7_v8\cdd\lvgl\src\misc\lv_mem.h:194:44:lv_memcpy_small	32	static
+../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/misc/lv_color.h:595:26:lv_color_make	16	static
+../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/draw/../../../../CDD/lvgl/src/misc/lv_color.h:700:26:lv_color_black	8	static
+../CDD/lvgl/src/draw/lv_draw_label.c:56:28:lv_draw_label_dsc_init	24	static
+../CDD/lvgl/src/draw/lv_draw_label.c:78:28:lv_draw_label	344	static
+../CDD/lvgl/src/draw/lv_draw_label.c:365:6:lv_draw_letter	32	static
+../CDD/lvgl/src/draw/lv_draw_label.c:381:16:hex_char_to_num	24	static

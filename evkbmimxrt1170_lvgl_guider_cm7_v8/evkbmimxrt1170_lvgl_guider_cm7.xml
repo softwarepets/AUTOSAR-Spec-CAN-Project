@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+  <section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+    <language id="org.eclipse.cdt.core.g++" name="C++ Source File">
+      <includepath workspace_path="true">/${ProjName}/source</includepath>
+      <includepath workspace_path="true">/${ProjName}/video</includepath>
+      <includepath workspace_path="true">/${ProjName}/drivers</includepath>
+      <includepath workspace_path="true">/${ProjName}/touchpanel</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/inc</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/font</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/font/mcufont/decoder</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/VGLite/rtos</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/VGLiteKernel</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/VGLiteKernel/rtos</includepath>
+      <includepath workspace_path="true">/${ProjName}/lvgl/lvgl</includepath>
+      <includepath workspace_path="true">/${ProjName}/lvgl/lvgl/src</includepath>
+      <includepath workspace_path="true">/${ProjName}/lvgl/lvgl/src/font</includepath>
+      <includepath workspace_path="true">/${ProjName}/lvgl</includepath>
+      <includepath workspace_path="true">/${ProjName}/device</includepath>
+      <includepath workspace_path="true">/${ProjName}/utilities</includepath>
+      <includepath workspace_path="true">/${ProjName}/component/uart</includepath>
+      <includepath workspace_path="true">/${ProjName}/component/serial_manager</includepath>
+      <includepath workspace_path="true">/${ProjName}/component/lists</includepath>
+      <includepath workspace_path="true">/${ProjName}/startup</includepath>
+      <includepath workspace_path="true">/${ProjName}/xip</includepath>
+      <includepath workspace_path="true">/${ProjName}/board</includepath>
+      <includepath workspace_path="true">/${ProjName}/Services/freertos-kernel/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/Services/freertos-kernel/portable/GCC/ARM_CM4F</includepath>
+      <includepath workspace_path="true">/${ProjName}/CMSIS</includepath>
+      <includepath workspace_path="true">/${ProjName}/generated</includepath>
+      <includepath workspace_path="true">/${ProjName}/custom</includepath>
+      <includepath workspace_path="true">/${ProjName}/generated/guider_customer_fonts</includepath>
+      <includepath workspace_path="true">/${ProjName}/generated/guider_fonts</includepath>
+      <includepath workspace_path="true">/${ProjName}/rlottie</includepath>
+      <includepath workspace_path="true">/evkbmimxrt1170_lvgl_guider_cm7_v8/source/application/includes</includepath>
+    </language>
+    <language id="org.eclipse.cdt.core.gcc" name="C Source File">
+      <includepath workspace_path="true">/${ProjName}/source</includepath>
+      <includepath workspace_path="true">/${ProjName}/video</includepath>
+      <includepath workspace_path="true">/${ProjName}/drivers</includepath>
+      <includepath workspace_path="true">/${ProjName}/touchpanel</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/inc</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/font</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/font/mcufont/decoder</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/VGLite/rtos</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/VGLiteKernel</includepath>
+      <includepath workspace_path="true">/${ProjName}/vglite/VGLiteKernel/rtos</includepath>
+      <includepath workspace_path="true">/${ProjName}/lvgl/lvgl</includepath>
+      <includepath workspace_path="true">/${ProjName}/lvgl/lvgl/src</includepath>
+      <includepath workspace_path="true">/${ProjName}/lvgl/lvgl/src/font</includepath>
+      <includepath workspace_path="true">/${ProjName}/lvgl</includepath>
+      <includepath workspace_path="true">/${ProjName}/device</includepath>
+      <includepath workspace_path="true">/${ProjName}/utilities</includepath>
+      <includepath workspace_path="true">/${ProjName}/component/uart</includepath>
+      <includepath workspace_path="true">/${ProjName}/component/serial_manager</includepath>
+      <includepath workspace_path="true">/${ProjName}/component/lists</includepath>
+      <includepath workspace_path="true">/${ProjName}/startup</includepath>
+      <includepath workspace_path="true">/${ProjName}/xip</includepath>
+      <includepath workspace_path="true">/${ProjName}/board</includepath>
+      <includepath workspace_path="true">/${ProjName}/Services/freertos-kernel/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/Services/freertos-kernel/portable/GCC/ARM_CM4F</includepath>
+      <includepath workspace_path="true">/${ProjName}/CMSIS</includepath>
+      <includepath workspace_path="true">/${ProjName}/generated</includepath>
+      <includepath workspace_path="true">/${ProjName}/custom</includepath>
+      <includepath workspace_path="true">/${ProjName}/generated/guider_customer_fonts</includepath>
+      <includepath workspace_path="true">/${ProjName}/generated/guider_fonts</includepath>
+      <includepath workspace_path="true">/${ProjName}/rlottie</includepath>
+      <includepath workspace_path="true">/evkbmimxrt1170_lvgl_guider_cm7_v8/source/application/includes</includepath>
+    </language>
+    <language id="org.eclipse.cdt.core.assembly" name="Assembly Source File">
+      <includepath workspace_path="true">/${ProjName}/source</includepath>
+      <includepath workspace_path="true">/evkbmimxrt1170_lvgl_guider_cm7_v8/source/application/includes</includepath>
+    </language>
+    <language id="org.eclipse.cdt.core.com.crt.mcu.assembly" name="Additional Assembly Source Files">
+      <includepath workspace_path="true">/${ProjName}/source</includepath>
+      <includepath workspace_path="true">/evkbmimxrt1170_lvgl_guider_cm7_v8/source/application/includes</includepath>
+    </language>
+    <language name="Object File"/>
+  </section>
+  <section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+    <language id="org.eclipse.cdt.core.g++" name="C++ Source File">
+      <macro>
+        <name>CPU_MIMXRT1176DVMAA</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CPU_MIMXRT1176DVMAA_cm7</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>MCUXPRESSO_SDK</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>SERIAL_PORT_TYPE_UART</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>SDK_DEBUGCONSOLE</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>__MCUXPRESSO</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>__USE_CMSIS</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>DEBUG</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>__NEWLIB__</name>
+        <value/>
+      </macro>
+    </language>
+    <language id="org.eclipse.cdt.core.gcc" name="C Source File">
+      <macro>
+        <name>__NEWLIB__</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CPU_MIMXRT1176DVMAA</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CPU_MIMXRT1176DVMAA_cm7</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>XIP_BOOT_HEADER_DCD_ENABLE</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>USE_SDRAM</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>DATA_SECTION_IS_CACHEABLE</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>SDK_DEBUGCONSOLE</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>XIP_EXTERNAL_FLASH</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>XIP_BOOT_HEADER_ENABLE</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>LV_CONF_INCLUDE_SIMPLE</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>FSL_SDK_DRIVER_QUICK_ACCESS_ENABLE</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>MCUXPRESSO_SDK</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>SDK_I2C_BASED_COMPONENT_USED</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>VG_COMMAND_CALL</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>VG_TARGET_FAST_CLEAR</name>
+        <value>0</value>
+      </macro>
+      <macro>
+        <name>SERIAL_PORT_TYPE_UART</name>
+        <value>1</value>
+      </macro>
+      <macro>
+        <name>SDK_OS_FREE_RTOS</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CR_INTEGER_PRINTF</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>__MCUXPRESSO</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>__USE_CMSIS</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>DEBUG</name>
+        <value/>
+      </macro>
+    </language>
+    <language id="org.eclipse.cdt.core.assembly" name="Assembly Source File"/>
+    <language id="org.eclipse.cdt.core.com.crt.mcu.assembly" name="Additional Assembly Source Files"/>
+    <language name="Object File"/>
+  </section>
+</cdtprojectproperties>

@@ -1,0 +1,13 @@
+../vglite/font/vft_draw.c:74:7:_mem_allocate	24	static
+../vglite/font/vft_draw.c:100:6:_mem_free	16	static
+../vglite/font/vft_draw.c:106:6:glyph_cache_init	8	static
+../vglite/font/vft_draw.c:114:6:glyph_cache_free	16	static
+../vglite/font/vft_draw.c:134:17:vft_cache_lookup	32	static
+../vglite/font/vft_draw.c:184:5:vg_lite_vtf_draw_text	128	static
+../vglite/font/vft_draw.c:297:6:load_font_face	32	static
+../vglite/font/vft_draw.c:310:6:load_glyph_table	40	static
+../vglite/font/vft_draw.c:340:19:vft_load_from_buffer	48	static
+../vglite/font/vft_draw.c:414:15:vft_find_glyph	32	static
+../vglite/font/vft_draw.c:432:5:vft_glyph_distance	40	static
+../vglite/font/vft_draw.c:453:14:vft_get_glyph_path	16	static
+../vglite/font/vft_draw.c:459:6:vft_unload	16	static

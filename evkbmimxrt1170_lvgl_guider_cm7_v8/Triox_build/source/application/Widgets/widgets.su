@@ -1,0 +1,4 @@
+../source/application/Widgets/widgets.c:11:6:vehiclePerformanceData	16	static
+../source/application/Widgets/widgets.c:16:6:vehicleServiceData	16	static
+../source/application/Widgets/widgets.c:21:6:VehicleTripData	16	static
+../source/application/Widgets/widgets.c:27:6:VehicleWidget	16	static

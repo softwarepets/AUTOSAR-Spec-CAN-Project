@@ -1,0 +1,16 @@
+D:\middleware\evkbmimxrt1170_lvgl_guider_cm7_v8\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+D:/middleware/evkbmimxrt1170_lvgl_guider_cm7_v8/Mcal/fsl_common_arm.h:514:24:EnableIRQ	24	static
+D:\middleware\evkbmimxrt1170_lvgl_guider_cm7_v8/lvgl/lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+D:/middleware/evkbmimxrt1170_lvgl_guider_cm7_v8/Mcal/fsl_gpio.h:176:24:GPIO_PinRead	16	static
+D:/middleware/evkbmimxrt1170_lvgl_guider_cm7_v8/Mcal/fsl_gpio.h:253:20:GPIO_PortEnableInterrupts	16	static
+D:/middleware/evkbmimxrt1170_lvgl_guider_cm7_v8/Mcal/fsl_gpio.h:318:20:GPIO_PortClearInterruptFlags	16	static
+../source/lvgl_guider.c:89:17:get_idle_time_cb	8	static
+../source/lvgl_guider.c:94:13:reset_idle_time_cb	8	static
+../source/lvgl_guider.c:100:13:HMI_AppTask	40	static
+../source/lvgl_guider.c:215:6:GPIO3_Combined_0_15_IRQHandler	8	static
+../source/lvgl_guider.c:232:6:GPIO13_Combined_0_31_IRQHandler	8	static
+../source/lvgl_guider.c:258:6:talk_to_raspi	24	static
+../source/lvgl_guider.c:295:5:main	24	static
+../source/lvgl_guider.c:339:6:vApplicationMallocFailedHook	8	static
+../source/lvgl_guider.c:350:6:vApplicationTickHook	8	static
+../source/lvgl_guider.c:361:6:vApplicationStackOverflowHook	16	static

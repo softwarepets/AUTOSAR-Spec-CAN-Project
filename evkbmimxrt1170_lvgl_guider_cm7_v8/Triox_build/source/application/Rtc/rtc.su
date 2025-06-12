@@ -1,0 +1,10 @@
+D:/middleware/evkbmimxrt1170_lvgl_guider_cm7_v8/Mcal/fsl_snvs_hp.h:335:20:SNVS_HP_RTC_StartTimer	16	static
+D:/middleware/evkbmimxrt1170_lvgl_guider_cm7_v8/Mcal/fsl_snvs_lp.h:375:20:SNVS_LP_SRTC_StartTimer	16	static
+../source/application/Rtc/rtc.c:13:6:RtcInit	8	static
+../source/application/Rtc/rtc.c:40:6:RtcApp	8	static
+../source/application/Rtc/rtc.c:53:6:setHour	16	static
+../source/application/Rtc/rtc.c:58:6:setMinute	16	static
+../source/application/Rtc/rtc.c:63:6:setSecond	16	static
+../source/application/Rtc/rtc.c:68:9:getHour	4	static
+../source/application/Rtc/rtc.c:73:9:getMinute	4	static
+../source/application/Rtc/rtc.c:78:9:getSecond	4	static

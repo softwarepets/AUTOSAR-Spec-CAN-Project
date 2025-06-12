@@ -1,0 +1,12 @@
+../board/../lvgl/lvgl/src/hal/../draw/../misc/../font/../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../board/lvgl_support.c:223:6:lv_port_pre_init	4	static
+../board/lvgl_support.c:227:6:lv_port_disp_init	40	static
+../board/lvgl_support.c:348:13:DEMO_BufferSwitchOffCallback	24	static
+../board/lvgl_support.c:365:13:DEMO_CleanInvalidateCache	32	static
+../board/lvgl_support.c:371:13:DEMO_WaitBufferSwitchOff	8	static
+../board/lvgl_support.c:387:13:DEMO_FlushDisplay	88	static
+../board/lvgl_support.c:463:6:lv_port_indev_init	8	static
+../board/lvgl_support.c:482:13:BOARD_PullMIPIPanelTouchResetPin	16	static
+../board/lvgl_support.c:494:13:BOARD_ConfigMIPIPanelTouchIntPin	16	static
+../board/lvgl_support.c:562:13:DEMO_InitTouch	16	static
+../board/lvgl_support.c:583:13:DEMO_ReadTouch	16	static

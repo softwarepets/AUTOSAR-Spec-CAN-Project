@@ -1,0 +1,3 @@
+../CDD/lvgl/src/misc/lv_async.c:46:10:lv_async_call	24	static
+../CDD/lvgl/src/misc/lv_async.c:69:10:lv_async_call_cancel	32	static
+../CDD/lvgl/src/misc/lv_async.c:100:13:lv_async_timer_cb	24	static

@@ -1,0 +1,5 @@
+c:\users\subas\documents\mcuxpressoide_11.9.0_2144\workspace\evkbmimxrt1170_lvgl_guider_cm7_v8\cdd\lvgl\src\misc\lv_area.h:123:26:lv_area_get_width	16	static
+../CDD/lvgl/src/draw/sw/lv_draw_sw.c:41:6:lv_draw_sw_init_ctx	24	static
+../CDD/lvgl/src/draw/sw/lv_draw_sw.c:68:6:lv_draw_sw_deinit_ctx	24	static
+../CDD/lvgl/src/draw/sw/lv_draw_sw.c:76:6:lv_draw_sw_wait_for_finish	16	static
+../CDD/lvgl/src/draw/sw/lv_draw_sw.c:82:6:lv_draw_sw_buffer_copy	40	static

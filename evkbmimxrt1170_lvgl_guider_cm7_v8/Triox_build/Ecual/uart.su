@@ -1,0 +1,17 @@
+C:\Users\subas\Documents\MCUXpressoIDE_11.9.0_2144\workspace\evkbmimxrt1170_lvgl_guider_cm7_v8\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+C:\Users\subas\Documents\MCUXpressoIDE_11.9.0_2144\workspace\evkbmimxrt1170_lvgl_guider_cm7_v8\drivers/fsl_common_arm.h:514:24:EnableIRQ	24	static
+C:\Users\subas\Documents\MCUXpressoIDE_11.9.0_2144\workspace\evkbmimxrt1170_lvgl_guider_cm7_v8\drivers/fsl_lpuart.h:776:23:LPUART_ReadByte	32	static
+../Ecual/uart.c:35:13:setFrameType	16	static
+../Ecual/uart.c:41:13:setBLEStatus	16	static
+../Ecual/uart.c:47:13:setPhnStatus	16	static
+../Ecual/uart.c:65:13:setNavDetails	16	static
+../Ecual/uart.c:113:13:setincCallFrame	16	static
+../Ecual/uart.c:138:13:setOngCallFrame	16	static
+../Ecual/uart.c:163:13:setCallEnd	16	static
+../Ecual/uart.c:169:13:setMissedCallNotify	16	static
+../Ecual/uart.c:175:13:resetMissedCallNotify	16	static
+../Ecual/uart.c:181:13:resetNavNotify	16	static
+../Ecual/uart.c:186:13:parseUartData	16	static
+../Ecual/uart.c:301:6:LPUART1_IRQHandler	16	static
+../Ecual/uart.c:323:13:UART_AppTask	32	static
+../Ecual/uart.c:343:6:UART_TaskCreate	24	static

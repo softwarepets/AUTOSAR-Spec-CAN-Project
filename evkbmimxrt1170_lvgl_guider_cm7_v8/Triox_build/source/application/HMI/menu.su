@@ -1,0 +1,12 @@
+../source/application/HMI/menu.c:15:6:setMenuLoaded	16	static
+../source/application/HMI/menu.c:19:9:getMenuLoaded	4	static
+../source/application/HMI/menu.c:23:6:setSelectedTrip	16	static
+../source/application/HMI/menu.c:27:9:getSelectedTrip	4	static
+../source/application/HMI/menu.c:31:6:setTripResetState	16	static
+../source/application/HMI/menu.c:34:6:getTripResetState	4	static
+../source/application/HMI/menu.c:38:6:setUpDownLeftRightCount	16	static
+../source/application/HMI/menu.c:68:9:getButtonInput	4	static
+../source/application/HMI/menu.c:72:9:getMenuLevel	4	static
+../source/application/HMI/menu.c:76:6:setMenuLevel	16	static
+../source/application/HMI/menu.c:80:9:getMenuOption	4	static
+../source/application/HMI/menu.c:84:6:setMenuOption	16	static

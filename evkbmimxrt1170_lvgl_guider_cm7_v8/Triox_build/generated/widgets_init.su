@@ -1,0 +1,6 @@
+../generated/../lvgl/lvgl/src/lv_api_map.h:55:20:lv_obj_move_foreground	24	static
+../generated/../lvgl/lvgl/src/lv_api_map.h:67:20:lv_obj_move_background	16	static
+../generated/widgets_init.c:14:30:kb_event_cb	24	static
+../generated/widgets_init.c:22:30:ta_event_cb	24	static
+../generated/widgets_init.c:81:6:baseScreen_widgetMenuType3Value2_timer	24	static
+../generated/widgets_init.c:99:6:baseScreen_clusterTime_timer	32	static

@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_MIMXRT1170EVKB_30.c lv_font_montserratMedium_16.c lv_font_MIMXRT1170EVKB_75.c lv_font_MIMXRT1170EVKB_100.c lv_font_MIMXRT1170EVKB_50.c lv_font_speedometerValue_200.c

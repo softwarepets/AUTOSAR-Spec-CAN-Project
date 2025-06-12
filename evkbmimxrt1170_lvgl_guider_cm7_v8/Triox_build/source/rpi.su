@@ -1,0 +1,4 @@
+../source/rpi.c:35:10:RPI_Init	32	static
+../source/rpi.c:156:10:RPI_Deinit	24	static
+../source/rpi.c:169:10:RPI_Start	24	static
+../source/rpi.c:177:10:RPI_Stop	24	static

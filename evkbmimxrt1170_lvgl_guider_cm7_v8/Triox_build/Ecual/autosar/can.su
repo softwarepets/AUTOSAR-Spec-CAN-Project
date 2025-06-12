@@ -1,0 +1,4 @@
+../Ecual/autosar/can.c:28:6:Can_Init	40	static
+../Ecual/autosar/can.c:55:6:Can_DeInit	16	static
+../Ecual/autosar/can.c:80:16:Can_Write	40	static
+../Ecual/autosar/can.c:118:6:Can_MainFunction_Read	64	static
